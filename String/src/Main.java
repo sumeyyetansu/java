@@ -10,7 +10,7 @@ public class Main {
         int e = 35 ;
         String f = d + e ;
 
-        String g ="Java\Programlama\Dili";
+        String g ="Java\nProgramlama\nDili";
         String h =" Java\nProgramlama\nDili";
 
 

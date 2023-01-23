@@ -24,23 +24,19 @@ public class Main {
         System.out.println("b:" +b);
         System.out.println("c:" +c);
 */
-        double sayi1= 70.25;
-        double sayi2= 60d;
-        double sayi3=80.2;
+        double sayi1 = 70.25;
+        double sayi2 = 60d;
+        double sayi3 = 80.2;
 
-        float sayi1= 70.25;
-        float sayi2= 60d;
-        float sayi3=80.2;
-
-
-        System.out.println("Ortalama" +( sayi1 + sayi2 + sayi3)/3);
-        System.out.println("Ortalama2" +( sayi1 + sayi2 + sayi3)/3);
+        float sayi4 = 70.25f;
+        float sayi5 = 60f;
+        float sayi6 = 80.2f;
 
 
+        System.out.println("Ortalama" + (sayi1 + sayi2 + sayi3) / 3);
+        System.out.println("Ortalama2" + (sayi1 + sayi2 + sayi3) / 3);
 
 
-
-
-
+    }
 
 }
